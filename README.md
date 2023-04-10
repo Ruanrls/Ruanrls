@@ -57,18 +57,20 @@ I also enjoy studying and expanding my skills to build highly complex systems. T
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white)
 
+---
 
-
-
-<!-- stats container -->
-<div align="center">
-  <a href="https://github.com/Ruanrls" />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruanrls&layout=compact&langs_count=7&theme=dracula"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Ruanrls&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-  />
-</div>
+<details>
+  <summary><h4>Stats for nerds 🤓:</h4></summary>
+  <!-- stats container -->
+  <div align="center">
+    <a href="https://github.com/Ruanrls" />
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruanrls&layout=compact&langs_count=7&theme=dracula"
+    />
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=Ruanrls&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    />
+  </div>
+</details>
