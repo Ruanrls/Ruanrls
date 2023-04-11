@@ -18,6 +18,8 @@ I am Ruan, a **full-stack developer** with 4 years of experience in **React** an
 
 I also enjoy studying and expanding my skills to build highly complex systems. This passion motivates me to continuously improve as a developer and deliver awesome results for my clients.
 
+You can found me on <a href="https://www.linkedin.com/in/ruan-rafael-61ba56196/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)</a>
+
 ---
 ### Main Stack 🧑🏻‍💻
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
