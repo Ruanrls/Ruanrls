@@ -14,7 +14,7 @@
 <!-- My profile container -->
 ### Hi there 👋
 
-I am Ruan, a **full-stack developer** with 4 years of experience in **React** and **NodeJS**. I have skills to develop scalable and customized applications, and I enjoy keeping myself updated with new technologies in the market. I am committed to excellence and able to work in a team. I am ready to help create high-quality solutions that meet the needs of your project.
+I am Ruan, a **full-stack developer** with 7 years of experience. I have skills to develop scalable and customized applications, and I enjoy keeping myself updated with new technologies in the market. I am committed to excellence and able to work in a team. I am ready to help create high-quality solutions that meet the needs of your project.
 
 I also enjoy studying and expanding my skills to build highly complex systems. This passion motivates me to continuously improve as a developer and deliver awesome results for my clients.
 
